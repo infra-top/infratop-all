@@ -1,0 +1,16 @@
+[submodule "honest-profiler"]
+	path = honest-profiler
+	url = git@github.com:infra-top/honest-profiler.git
+	branch = java11
+[submodule "ejstatd"]
+	path = ejstatd
+	url = git@github.com:infra-top/ejstatd.git
+	branch = java11
+[submodule "jstack-profiler"]
+	path = jstack-profiler
+	url = git@github.com:infra-top/jstack-profiler.git
+	branch = develop
+[submodule "vector-pmda"]
+	path = vector-pmda
+	url = git@github.com:infra-top/vector-pmda.git
+	branch = pcp4
